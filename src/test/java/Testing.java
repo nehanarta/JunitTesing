@@ -15,4 +15,11 @@ static UserReg User;
     String Excepted="valid";
     Assertions.assertEquals(Excepted,actual);
 }
+@Test
+    public void givenTextWhenContainsLastCapsAndMinThreeCharShouldReturnTrue() {
+    String actual = UserReg.validFirstName("Patil");
+    String Excepted = "valid";
+    Assertions.assertEquals(Excepted, actual);
+
+}
 }
