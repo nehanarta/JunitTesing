@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8ffe03cb-934a-4872-be6c-7f8f2191f98e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/UserReg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/UserReg.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/Testing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Testing.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +40,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
-  <component name="RunManager" selected="JUnit.Testing.givneMobileNumberWithSpaceAndProperNumberShouldReturnTrue">
+  <component name="RunManager" selected="JUnit.Testing.givenMobileNumberWithSpaceAndProperNumberShouldReturnTrue">
     <configuration name="UserReg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.UserReg" />
       <module name="JunitTest" />
@@ -56,20 +54,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Testing" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="JunitTest" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Testing" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Testing.givenEmailWhenAccordingToProperNumberShouldReturnTrue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JunitTest" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="Testing" />
       <option name="METHOD_NAME" value="givenEmailWhenAccordingToProperNumberShouldReturnTrue" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Testing.givenMobileNumberWithSpaceAndProperNumberShouldReturnTrue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JunitTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Testing" />
+      <option name="METHOD_NAME" value="givenMobileNumberWithSpaceAndProperNumberShouldReturnTrue" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -97,11 +96,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Testing.givenMobileNumberWithSpaceAndProperNumberShouldReturnTrue" />
         <item itemvalue="JUnit.Testing.givneMobileNumberWithSpaceAndProperNumberShouldReturnTrue" />
         <item itemvalue="JUnit.Testing.givenEmailWhenAccordingToProperNumberShouldReturnTrue" />
         <item itemvalue="JUnit.Testing.givenTextWhenContainsLastCapsAndMinThreeCharShouldReturnTrue" />
         <item itemvalue="Application.UserReg" />
-        <item itemvalue="JUnit.Testing" />
       </list>
     </recent_temporary>
   </component>

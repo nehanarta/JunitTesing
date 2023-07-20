@@ -35,7 +35,12 @@ public class Testing {
         String Excepted = "valid";
         Assertions.assertEquals(Excepted, actual);
     }
-
+    @Test
+    public void givenMobileNumberWithSpaceAndProperNumberShouldReturnTrue(){
+        String actual = UserReg.validMobileNo("9999999998");
+        String Excepted = "valid";
+        Assertions.assertEquals(Excepted, actual);
+    }
     }
 
 
