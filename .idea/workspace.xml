@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8ffe03cb-934a-4872-be6c-7f8f2191f98e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/UserReg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/UserReg.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/Testing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Testing.java" afterDir="false" />
     </list>
@@ -31,17 +32,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "onboarding.tips.debug.path": "F:/Junit/JunitTest/src/main/java/org/example/Main.java",
-    "project.structure.last.edited": "Problems",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;F:/Junit/JunitTest/src/main/java/org/example/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Problems&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="JUnit.Testing.givenTextWhenContainsLastCapsAndMinThreeCharShouldReturnTrue">
+}</component>
+  <component name="RunManager" selected="JUnit.Testing.givneMobileNumberWithSpaceAndProperNumberShouldReturnTrue">
     <configuration name="UserReg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.UserReg" />
       <module name="JunitTest" />
@@ -64,6 +65,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Testing.givenEmailWhenAccordingToProperNumberShouldReturnTrue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JunitTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Testing" />
+      <option name="METHOD_NAME" value="givenEmailWhenAccordingToProperNumberShouldReturnTrue" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Testing.givenTextWhenContainsLastCapsAndMinThreeCharShouldReturnTrue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JunitTest" />
       <option name="PACKAGE_NAME" value="" />
@@ -74,11 +85,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Testing.givenTextWhenItContainsFirstCapsAndMinThreeCharShouldReturnTrue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Testing.givneMobileNumberWithSpaceAndProperNumberShouldReturnTrue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JunitTest" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="Testing" />
-      <option name="METHOD_NAME" value="givenTextWhenItContainsFirstCapsAndMinThreeCharShouldReturnTrue" />
+      <option name="METHOD_NAME" value="givneMobileNumberWithSpaceAndProperNumberShouldReturnTrue" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -86,10 +97,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Testing.givneMobileNumberWithSpaceAndProperNumberShouldReturnTrue" />
+        <item itemvalue="JUnit.Testing.givenEmailWhenAccordingToProperNumberShouldReturnTrue" />
         <item itemvalue="JUnit.Testing.givenTextWhenContainsLastCapsAndMinThreeCharShouldReturnTrue" />
         <item itemvalue="Application.UserReg" />
         <item itemvalue="JUnit.Testing" />
-        <item itemvalue="JUnit.Testing.givenTextWhenItContainsFirstCapsAndMinThreeCharShouldReturnTrue" />
       </list>
     </recent_temporary>
   </component>
